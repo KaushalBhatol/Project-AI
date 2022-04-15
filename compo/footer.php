@@ -17,7 +17,7 @@
     }
     ?>
     <div class="footer-newsletter" id="newslatter">
-        <div class=" container">
+        <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-12 text-center">
                     <h4>Newsletter</h4>
@@ -25,7 +25,7 @@
                 </div>
                 <div class="col-lg-6">
                     <form action="#newslatter" method="post">
-                        <input type="email" name="email"><input type="submit" value="Subscribe">
+                        <input type="email" class="form-control" name="email"><input type="submit" value="Subscribe">
                     </form>
                 </div>
             </div>

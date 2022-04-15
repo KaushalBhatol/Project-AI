@@ -2,17 +2,20 @@
 
 * hello world abc
 
-## SQL INFORMARION
+## SQL INFORMATION
+
+* mySql
+* Data base connection file stored on partials/_dbconnnect.php
 
 ### feedback
 
 Fieldname   | Datatype      | Size      | Constraint    | other
 ------------|---------------|-----------|---------------|------
-sno         | INT           | 4         | Primary Key   | auto increment
+sno         | INT           | 4         | Primary Key   | Auto increment
 name        | VARCHAR       | 50        | NOT NULL      | NO
-email       | VARCHAR       | 50        | Not Null      | NO
-feedback    | TEXT          | 255       | Not Null      | NO
-dt          | DATETIME      | NO        | CURRENT_TIME  | NO
+email       | VARCHAR       | 50        | NOT NULL      | NO
+feedback    | TEXT          | 255       | NOT NULL      | NO
+dt          | DATETIME      | NO        | NOT NULL      | CURRENT_TIME
 
 SQL QUERRY:
 

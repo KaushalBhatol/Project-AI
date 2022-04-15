@@ -44,15 +44,15 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <form action="#" method="post">
         <div class="form-group">
             <label for="username">Name</label>
-            <input type="text" class="form-control" id="username" name="name" required>
+            <input type="text" class="form-control" id="username" name="name" placeholder="John Smith" required>
         </div>
         <div class="form-group">
             <label for="email">Email</label>
-            <input type="Email" class="form-control" id="email" name="email" required>
+            <input type="Email" class="form-control" id="email" name="email" placeholder="johansmith@gmail.com" required>
         </div>
         <div class="form-group">
             <label>Feedback</label>
-            <textarea class="form-control" name="feedback" rows="6" required></textarea>
+            <textarea class="form-control" name="feedback" rows="6" placeholder="Your respactive feedback..." required></textarea>
         </div>
 
         <button type="submit" class="btn btn-primary text-center">submit</button>
