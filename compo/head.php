@@ -9,7 +9,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $email = $_POST["email"];
     $exists = false;
     if ($exists == false) {
-        $sql = "INSERT INTO `newslatter` ( `email`, `dt`) VALUES ('$email', current_timestamp())";
+        $sql = "INSERT INTO `newsletter` ( `email`, `dt`) VALUES ('$email', current_timestamp())";
         $result = mysqli_query($conn, $sql);
         if ($result) {
             $showAlert = true;
