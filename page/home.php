@@ -18,3 +18,17 @@ $block_description = "This technology is much older than you would imagine. Even
 $block_link = '?p=history_of_ai';
 $block_image = $img . 'history-of-ai.png';
 include 'compo/page_block.php';
+
+$block_title = "Current State of AI";
+$block_headline = "Artificial Intelligence has various applications in today's society. ";
+$block_description = "Even if its benefits may not be always easy to quantify, AI has proven itself capable of improving process efficiency, reducing human errors and labor, and extracting insights from big data.";
+$block_link = '?p=Current_State_of_AI';
+$block_image = $img . 'artificial-intelligence-current-state.webp';
+include 'compo/page_block.php';
+
+$block_title = "Future of AI";
+$block_headline = "Undoubtedly, Artificial Intelligence (AI) is a revolutionary field of computer science, which is ready to become the main component of various emerging technologies like big data, robotics, and IoT....";
+$block_description = "";
+$block_link = '?p=future-of-ai';
+$block_image = $img . 'future-of-artificial-intelligence.png';
+include 'compo/page_block.php';

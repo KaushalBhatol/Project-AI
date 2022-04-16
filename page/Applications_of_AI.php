@@ -22,7 +22,7 @@ include 'compo/Breadcrumbs.php';
                         <p>
                             Following are some sectors which have the application of Artificial Intelligence:
                         </p>
-                        <img src="https://static.javatpoint.com/tutorial/ai/images/application-of-ai.png" class="img-fluid" alt="">
+                        <img src="<?= $img . 'application-of-ai.png' ?>" class="img-fluid" alt="">
                         <h3>1. AI in Astronomy</h3>
                         <p>
                             Artificial Intelligence can be very useful to solve complex universe problems. AI technology can be helpful for understanding the universe such as how it works, origin, etc.

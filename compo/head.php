@@ -72,16 +72,17 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                         <ul>
                             <li><a href="?p=Applications_of_AI">Applications of AI</a></li>
                             <li><a href="?p=history_of_ai">History of AI</a></li>
-                            <li><a href="#">Current State of AI</a></li>
-                            <li><a href="#">Challenges of AI</a></li>
-                            <li><a href="#">Future of AI</a></li>
-                            <li><a href="#">Current status of AI</a></li>
+                            <li><a href="?p=Current_State_of_AI">Current State of AI</a></li>
+                            <li><a href="?p=Challenges_of_AI">Challenges of AI</a></li>
+                            <li><a href="?p=future-of-ai">Future of AI</a></li>
+                            <li><a href="#">AIOT</a></li>
                             <li><a href="#">Growth of AI</a></li>
                         </ul>
                     </li>
                 </ul>
                 <i class="bi bi-list mobile-nav-toggle"></i>
-            </nav><!-- .navbar -->
+            </nav>
+            <!--navbar -->
 
         </div>
     </header><!-- End Header -->

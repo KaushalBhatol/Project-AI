@@ -20,7 +20,7 @@ include 'compo/Breadcrumbs.php';
                     <p>
                         Even there are the myths of Mechanical men in Ancient Greek and Egyptian Myths. Following are some milestones in the history of AI which defines the journey from the AI generation to till date development.
                     </p>
-                    <img class="col-lg-12" src="https://static.javatpoint.com/tutorial/ai/images/history-of-ai.png" class="img-fluid" alt="">
+                    <img class="col-lg-12" src="<?= $img . 'history-of-ai.png' ?>" class="img-fluid" alt="">
 
                     <div class="entry-content">
                         <br>
