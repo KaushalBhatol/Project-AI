@@ -75,8 +75,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                             <li><a href="?p=Current_State_of_AI">Current State of AI</a></li>
                             <li><a href="?p=Challenges_of_AI">Challenges of AI</a></li>
                             <li><a href="?p=future-of-ai">Future of AI</a></li>
-                            <li><a href="#">AIOT</a></li>
-                            <li><a href="#">Growth of AI</a></li>
+                            <li><a href="?p=AIOT">AIOT</a></li>
+                            <li><a href="?p=growth-of-ai">Growth of AI</a></li>
                         </ul>
                     </li>
                 </ul>

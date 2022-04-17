@@ -24,6 +24,10 @@ SQL QUERRY:
 CREATE TABLE `the-ai`.`feedback` ( `sno` INT(4) NOT NULL AUTO_INCREMENT , `name` VARCHAR(50) NOT NULL , `email` VARCHAR(50) NOT NULL , `feedback` VARCHAR(255) NOT NULL , `dt` DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP , PRIMARY KEY (`sno`)) ENGINE = InnoDB;
 ```
 
+```sql
+CREATE TABLE `unaux_30884490_theai`.`feedback` ( `sno` INT(4) NOT NULL AUTO_INCREMENT , `name` VARCHAR(50) NOT NULL , `email` VARCHAR(50) NOT NULL , `feedback` VARCHAR(255) NOT NULL , `dt` DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP , PRIMARY KEY (`sno`)) ENGINE = MyISAM;
+```
+
 ## newsletter
 
 * Table Name: newsletter
@@ -37,4 +41,8 @@ SQL QUERRY:
 
 ```sql
 CREATE TABLE `the-ai`.`newsletter` ( `email` VARCHAR(23) NOT NULL , `dt` DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP , PRIMARY KEY (`email`)) ENGINE = InnoDB;
+```
+
+```sql
+CREATE TABLE `unaux_30884490_theai`.`newsletter` ( `email` VARCHAR(23) NOT NULL , `dt` DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP , PRIMARY KEY (`email`)) ENGINE = MyISAM;
 ```
