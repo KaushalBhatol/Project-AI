@@ -36,7 +36,7 @@
         <div class="credits">
             THE AIRTIFICIAL INTELLIGENCE
             <br>
-            Designed by Kaushal Bhatol and Harsh Bhavsar
+            Designed by Kaushal Chaudhary and Harsh Bhavsar
         </div>
     </div>
 </footer><!-- End Footer -->

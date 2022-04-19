@@ -34,8 +34,8 @@ include 'compo/Breadcrumbs.php';
                         <p><a href="?p=other/advantage-disadvantage">Let's See advanatages and disadvantage of artificial Intelligence</a></p>
                     </div>
                 </article><!-- End blog entry -->
-                <!-- artical from: https://www.javatpoint.com/future-of-artificial-intelligence -->
             </div><!-- End blog entries list -->
         </div>
     </div>
 </section><!-- End Blog Single Section -->
+<!-- artical from: https://www.javatpoint.com/future-of-artificial-intelligence -->

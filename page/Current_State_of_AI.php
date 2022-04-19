@@ -108,9 +108,6 @@ include 'compo/Breadcrumbs.php';
                         <p>
                             Whether you’re already using AI implementations or not, one thing’s clear—ignoring AI in 2020 is quite impossible if you use a mobile device, browse your Facebook news feed, or shop online.
                         </p>
-
-
-
                     </div>
                 </article><!-- End blog entry -->
             </div><!-- End blog entries list -->
