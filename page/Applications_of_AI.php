@@ -13,7 +13,7 @@ include 'compo/Breadcrumbs.php';
             <div class="col-lg-12 entries">
                 <article class="entry entry-single">
                     <div class="entry-img">
-                        <img src="https://cdn.pixabay.com/photo/2017/03/23/09/34/artificial-intelligence-2167835_960_720.jpg" alt="" class="col-lg-12 img-fluid">
+                        <img src="<?= $img . 'artificial-intelligence-2167835_960_720.webp' ?>" alt="" class="col-lg-12 img-fluid">
                     </div>
                     <div class="entry-content">
                         <p>

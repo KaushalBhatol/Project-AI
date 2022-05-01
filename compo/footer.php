@@ -21,7 +21,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-12 text-center">
                     <h4>Newsletter</h4>
-                    <p>Get updated with us, subscrie to our newslatter</p>
+                    <p class="text-center">Get updated with us, subscrie to our newslatter</p>
                 </div>
                 <div class="col-lg-6">
                     <form action="#newslatter" method="post">

@@ -6,7 +6,7 @@ $block_image = "";
 -->
 
 
-<section id="about" class="about">
+<section id="page-block" class="page-block">
     <div class="container" data-aos="fade-up">
         <div class="row gx-0">
 
